@@ -12,9 +12,6 @@ import java.util.Date;
 import java.util.Scanner;
 
 
-
-
-
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
@@ -46,7 +43,9 @@ public class MyServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		//API Key
-		String apiKey = "59e64953c54888bbf979dd247fa1c7e1";
+		String apiKey = "59e64953c54888bbf979dd247fa1c7e";
+		// please put above your api key if you don't have you can use my but only for this project.
+		// my api key is already entered in its place.
 		// Get the city from the form input
         String city = request.getParameter("city"); 
 
