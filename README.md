@@ -15,18 +15,8 @@ HTML, CSS, JavaScript for frontend
 OpenWeather API for fetching weather data
 
 **Project Structure**
-weather-app/
-│── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── MyServlet.java  # Main servlet handling API requests
-│   │   ├── webapp/
-│   │   │   ├── index.html      # Main input page
-│   │   │   ├── index.jsp       # Displays weather details
-│   │   │   ├── myScript.js     # JavaScript for weather icons
-│   │   │   ├── styles.css      # Styling for UI
-│── pom.xml                     # Maven dependencies (if applicable)
-│── README.md                   # Project documentation
+![Screenshot 2025-03-04 091900](https://github.com/user-attachments/assets/de1c2085-1da2-4205-b965-1429b695e9b0)
+
 
 **Setup and Installation**
 1. Clone the Repository:
