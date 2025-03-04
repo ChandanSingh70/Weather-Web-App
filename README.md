@@ -15,7 +15,8 @@ HTML, CSS, JavaScript for frontend
 OpenWeather API for fetching weather data
 
 **Project Structure**
-![Screenshot 2025-03-04 091900](https://github.com/user-attachments/assets/de1c2085-1da2-4205-b965-1429b695e9b0)
+![image](https://github.com/user-attachments/assets/5d767dba-1c72-4080-b6aa-f5469051de51)
+
 
 
 **Setup and Installation**
